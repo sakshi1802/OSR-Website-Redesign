@@ -1,5 +1,6 @@
 # OSRI Website Redesign – Digital Transformation & Project Management
 
+### View the redesigned website live at: https://www.csusb.edu/student-research 
 This repository documents the end-to-end process of leading a full-scale redesign and relaunch of the Office of Student Research and Innovation (OSRI) website at California State University, San Bernardino. The project was initiated to address hard-to-navigate site into a modern, student-centered digital hub that supports research and innovation across all academic disciplines.
 
 ## Key Objectives
@@ -25,4 +26,4 @@ I owned this project from conception to launch, wearing multiple hats and levera
 - Increased engagement on the website by 63%
 - Positioned OSRI as a more inclusive, research-forward hub on campus
 
-**View the redesigned website live at:** [https://www.csusb.edu/student-research](https://www.csusb.edu/student-research) | *Previous version documented in proposal PDF*
+*Previous version of the website is documented in proposal PDF*
